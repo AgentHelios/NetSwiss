@@ -33,7 +33,7 @@ A comprehensive network analysis toolkit that combines multiple networking utili
 ```bash
 # Clone the repository
 git clone https://github.com/AgentHelios/NetSwiss.git
-cd netswiss
+cd NetSwiss
 
 # Install the package
 pip install -e .
